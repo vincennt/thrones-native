@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "throne-native",
+    "slug": "throne-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "throne-native"
+}
